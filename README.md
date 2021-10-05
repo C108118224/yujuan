@@ -21,6 +21,7 @@ Combined emphasis with **asterisks** and *underscores*.
 
 Strikethrough uses two tildes. ~~Scratch this~~.
 
+
 [高科大](https://www.nkust.edu.tw/index.php)
 ![高科大](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png)
 ![海底風光](mczh-tw400x400_small49362_395013297813.jpg "海底風光")
@@ -32,3 +33,7 @@ Strikethrough uses two tildes. ~~Scratch this~~.
 s="Python syntax highlighting"
 print s 
 ``` 
+```javascript code
+var s="This is JavaScript"
+alter(s);
+```
