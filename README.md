@@ -1,5 +1,9 @@
 # C108118224 陳俞娟
 # 組員
+#### **test**
+## *test*
+## ~~test~~
+
 | 學號 | 姓名  |
 |:-------------|:----------------|
 |  C108118203 |  :ghost:陳虹汝|
@@ -16,3 +20,7 @@
 - [x] done 1
 - [ ] unfinished
 - [x] done 2
+``` python
+s="Python syntax highlighting"
+print s 
+``` 
