@@ -40,3 +40,8 @@ print s
 var s="This is JavaScript"
 alter(s);
 ```
+ + 1. 魚
+ + 2. 雞
+*  note2
+*  note3
+
