@@ -27,7 +27,7 @@ Strikethrough uses two tildes. ~~Scratch this~~.
 [高科大](https://www.nkust.edu.tw/index.php)
 ![高科大](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png)
 ![海底風光](mczh-tw400x400_small49362_395013297813.jpg "海底風光")
-
+![PERT/CPM](1633766866516.jpg "PERT/CPM圖")
 - [ ] todo list
 - [x] done 1
 - [ ] unfinished
